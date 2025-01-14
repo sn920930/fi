@@ -1,0 +1,23 @@
+.a1 {
+    display: flex;
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 50px;
+    color: black;
+    font-weight: 900;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+
+.a2 {
+    display: flex;
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 50px;
+    color: black;
+    font-weight: 900;
+}
